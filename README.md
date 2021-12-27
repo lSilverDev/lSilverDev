@@ -28,6 +28,7 @@ I always work in personal projects that I found fun. I use Flutter for mobile, A
   
   ##
   
+![Snake animation]("https://github.com/lSilverDev/lSilverDev/blob/output/github-contribution-grid-snake.svg")
 
   
 
