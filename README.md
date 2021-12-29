@@ -8,7 +8,7 @@ I always work in personal projects that I found fun. I use Flutter for mobile, A
 <div>
   <a href="https://github.com/lSilverDev">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=lSilverDev&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSilverDev&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSilverDev&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block">
