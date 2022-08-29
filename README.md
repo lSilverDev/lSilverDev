@@ -4,12 +4,6 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
 
 - 🔭 I’m currently working on Mobile/Front-end/Back-end
 - 🌱 I’m currently learning Flutter
-
-<div>
-  <a href="https://github.com/lSilverDev">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=lSilverDev&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
-  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSilverDev&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
   
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
