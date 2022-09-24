@@ -4,6 +4,7 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
 
 - 🔭 I’m currently working on Mobile/Front-end/Back-end
 - 🌱 I’m currently learning Flutter
+- :fire: I'm currently developing my skills as a web developer
   
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
