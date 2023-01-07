@@ -9,7 +9,6 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
   
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -26,7 +25,7 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
   
   ##
   
-![Snake animation](https://github.com/lSilverDev/lSilverDev/blob/output/github-contribution-grid-snake.svg)
+##![Snake animation](https://github.com/lSilverDev/lSilverDev/blob/output/github-contribution-grid-snake.svg)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lSilverDev&count_private=true&show_icons=true&theme=dark)](https://github.com/lSilverDev/github-readme-stats)
