@@ -2,7 +2,6 @@ Hi there! I'm Eduardo 😄
 
 I always work in personal projects that I find fun. I use Flutter for mobile, Angular for web frontend and C#/.Net for the rest.
 
-- 🔭 I’m currently working on Mobile/Front-end/Back-end
 - :fire: I'm currently developing my skills as a web developer
 - :rocket: Focused on closed repositories
 - :heart_on_fire: developing small projects for portfolio
