@@ -28,5 +28,5 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lSilverDev&count_private=true&show_icons=true&theme=dark)](https://github.com/lSilverDev/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lSilverDev&theme=elegant&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lSilverDev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
