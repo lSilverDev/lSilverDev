@@ -2,8 +2,9 @@ Hi there! I'm Eduardo 😄
 
 I always work in personal projects that I find fun. I use Flutter for mobile, Angular for web frontend and C#/.Net for the rest.
 
-- :fire: I'm currently developing my skills as a web developer
+- :fire: I am currently evolving my skills as a web developer
 - :rocket: Focused on closed repositories
+- :heart_on_fire: Full stack Developer
  
 <div align="center">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
