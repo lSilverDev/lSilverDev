@@ -2,7 +2,6 @@ Hi there! I'm Eduardo 😄
 
 I always work in personal projects that I find fun. I use Flutter for mobile, Angular for web frontend and C#/.Net for the rest.
 
-- :fire: I am currently evolving my skills as a web developer
 - :rocket: Focused on closed repositories
 - :heart_on_fire: Full stack Developer
  
@@ -20,7 +19,6 @@ I always work in personal projects that I find fun. I use Flutter for mobile, An
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
 ## Github Stats
